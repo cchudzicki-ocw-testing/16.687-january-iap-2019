@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 2nd.jpg
+type: OCWImage
 uid: 775c5680-3590-e359-e1ad-437993ec4d2c
 ---

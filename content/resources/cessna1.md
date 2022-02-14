@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Goals for Student Learning
+parent_type: CourseSection
 resourcetype: Image
 title: Cessna1.jpg
+type: OCWImage
 uid: 28f08d9c-fa15-35c5-585c-492f8f462952
 ---
