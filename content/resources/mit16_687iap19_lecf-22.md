@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT16_687IAP19_Lec, F-22 Flight Controls
-type: OCWFile
 uid: 47ccc87f-2f60-e12f-3ed2-2e7f0d176d6a
 ---

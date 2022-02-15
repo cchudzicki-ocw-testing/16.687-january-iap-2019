@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT16_687IAP19_Lec01Review, QandA
-type: OCWFile
 uid: a11bf860-7ca1-b429-bf0e-8fa5b334f229
 ---

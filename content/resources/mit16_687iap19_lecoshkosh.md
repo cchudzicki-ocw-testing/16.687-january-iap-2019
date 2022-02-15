@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT16_687IAP19_Lec, 2018 Oshkosh
-type: OCWFile
 uid: 4c4ce65b-0bed-e35b-a2ea-bc8020512b16
 ---

@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
-type: OCWFile
 uid: 88a11d02-1a64-5aaa-a5e9-24d82a469ee6
 ---

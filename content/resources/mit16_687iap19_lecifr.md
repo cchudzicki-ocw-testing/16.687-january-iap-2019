@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT16_687IAP19_Lec, The How and the Why of IFR
-type: OCWFile
 uid: c8676d58-9d89-e33e-d821-46cd0c9985cd
 ---

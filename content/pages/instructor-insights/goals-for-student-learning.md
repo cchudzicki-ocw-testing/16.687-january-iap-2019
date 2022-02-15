@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 title: Goals for Student Learning
-type: CourseSection
 uid: 8d2be332-035a-18fd-c8c3-a274f8a7a4ff
 ---
 
