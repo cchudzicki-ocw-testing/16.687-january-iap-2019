@@ -14,12 +14,12 @@ Below, Dr. Philip Greenspun and Dr. Tina Srivastava describe various aspects of 
 
 {{< quote "Every student graduating from MIT should know how airplanes fly. It's a really basic point of curiosity in the world." "— Tina Srivastava" >}}
 
-*   [Goals for Student Learning]({{< baseurl >}}/pages/instructor-insights/goals-for-student-learning)
-*   [Offering an Intensive Learning Experience]({{< baseurl >}}/pages/instructor-insights/offering-an-intensive-learning-experience)
-*   [Engaging Students in a Large Lecture]({{< baseurl >}}/pages/instructor-insights/engaging-students-in-a-large-lecture)
-*   [Using a Spiraling Curriculum to Teach Complex Material]({{< baseurl >}}/pages/instructor-insights/using-a-spiraling-curriculum-to-teach-complex-material)
-*   [Inviting Students into the Aviation Community]({{< baseurl >}}/pages/instructor-insights/inviting-students-into-the-aviation-community)
-*   [Course Iteration: Considering an Extension]({{< baseurl >}}/pages/instructor-insights/course-iteration-considering-an-extension)
+*   {{< resource_link 8d2be332-035a-18fd-c8c3-a274f8a7a4ff "Goals for Student Learning" >}}
+*   {{< resource_link ffb0ae74-b5d1-e9e9-00ca-688fb2a3f901 "Offering an Intensive Learning Experience" >}}
+*   {{< resource_link 224abcd0-236b-b1b5-83d9-2af3439f7271 "Engaging Students in a Large Lecture" >}}
+*   {{< resource_link f9501b13-1d57-0e8d-42e6-1a85a047b173 "Using a Spiraling Curriculum to Teach Complex Material" >}}
+*   {{< resource_link 89b102e1-1180-315b-9329-1f536d633592 "Inviting Students into the Aviation Community" >}}
+*   {{< resource_link 0f15a77e-e7fc-3cd9-6a00-456761f2ccc1 "Course Iteration: Considering an Extension" >}}
 
 {{< simplecast ad05452b-07c7-44ff-b7bd-5f8aed175906 >}}
 
@@ -48,7 +48,7 @@ Students receive a [P/D/F grade](https://registrar.mit.edu/classes-grades-evalua
 Student Information
 -------------------
 
-![About 170 students took this course when it was taught in IAP 2019.]({{< resource_file 037afb05-1afb-01af-779e-e06764227650 >}})
+{{< resource 037afb05-1afb-01af-779e-e06764227650 >}}
 
 ### Enrollment
 
