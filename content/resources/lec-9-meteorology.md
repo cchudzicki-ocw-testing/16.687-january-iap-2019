@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -10,6 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Meteorology'
 uid: 0dde071b-0470-3e79-5578-de939681ca4a
 video_files:
