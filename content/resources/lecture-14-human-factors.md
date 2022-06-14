@@ -30,3 +30,4 @@ Description
 This lecture discussed aeromedical factors and aeronautical decision-making.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

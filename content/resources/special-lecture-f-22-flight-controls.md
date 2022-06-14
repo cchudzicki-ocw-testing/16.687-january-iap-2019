@@ -32,3 +32,4 @@ Description
 This lecture featured Lieutenant Colonel Randy Gordon to share experience in flying fighter jet.
 
 **Instructor:** Randy Gordon
+

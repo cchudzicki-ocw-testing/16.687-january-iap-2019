@@ -30,3 +30,4 @@ Description
 This lecture covered the topics of flying and landing at an airport.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

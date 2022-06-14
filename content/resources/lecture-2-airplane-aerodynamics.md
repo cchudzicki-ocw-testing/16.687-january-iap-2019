@@ -30,3 +30,4 @@ Description
 This lecture introduced the fundamental knowledge and basic principles of airplane aerodynamics.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

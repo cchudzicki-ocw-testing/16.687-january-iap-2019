@@ -32,3 +32,4 @@ Description
 Philip Greenspun shared the EAA AirVenture at Oshkosh Wisconsin in July 2018.
 
 **Instructor:** Philip Greenspun
+

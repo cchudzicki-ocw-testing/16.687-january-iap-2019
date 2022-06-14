@@ -30,3 +30,4 @@ Description
 This lecture discussed the visual flight rules (VFR), issues and challenges when operating aircraft at night.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

@@ -30,3 +30,4 @@ Description
 This lecture covered topics in understanding various weather reports and forecasts, and introduced graphic weather products.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

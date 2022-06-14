@@ -30,3 +30,4 @@ Description
 This lecture introduced different types of seaplanes.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

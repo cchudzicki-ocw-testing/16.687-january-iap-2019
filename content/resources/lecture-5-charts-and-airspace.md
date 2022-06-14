@@ -30,3 +30,4 @@ Description
 This lecture focused on the aeronautical charts.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

@@ -30,3 +30,4 @@ Description
 This lecture discussed various factors affecting aircraft performance and how to predict performance for all flight phases.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

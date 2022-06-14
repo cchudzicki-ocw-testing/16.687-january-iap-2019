@@ -30,3 +30,4 @@ Description
 This lecture focused on the aerodynamics of helicopters.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

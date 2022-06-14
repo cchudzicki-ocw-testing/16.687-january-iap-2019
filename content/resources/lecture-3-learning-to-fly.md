@@ -30,3 +30,4 @@ Description
 This lecture introduced the details in acquiring the FAA Pilot Certificate.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

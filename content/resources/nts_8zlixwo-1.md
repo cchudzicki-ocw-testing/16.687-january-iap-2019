@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-687-private-pilot-ground-school-january-iap-2019/1fda1e27d2aaf21b509fcc4b638656e0_Nts_8ZLIxwo.pdf
+file: /courses/16-687-private-pilot-ground-school-january-iap-2019/1fda1e27d2aaf21b509fcc4b638656e0_Nts_8ZLIxwo.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

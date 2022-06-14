@@ -30,3 +30,4 @@ Description
 This lecture covered topics of radar and ATC services, radio procedures, and sources of flight information.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

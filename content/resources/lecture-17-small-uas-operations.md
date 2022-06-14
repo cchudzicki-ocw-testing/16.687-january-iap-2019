@@ -32,3 +32,4 @@ Description
 This lecture discussed the small unmanned aircraft systems and the related FAA regulations.
 
 **Instructor:** Michael Holzwarth
+

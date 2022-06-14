@@ -30,3 +30,4 @@ Description
 This lecture focused on how to navigate an airplane.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

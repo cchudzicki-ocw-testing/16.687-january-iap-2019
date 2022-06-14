@@ -30,3 +30,4 @@ Description
 This lecture discussed the topic of weight and balance during aircraft operation.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

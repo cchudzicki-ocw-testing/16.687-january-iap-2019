@@ -32,3 +32,4 @@ Description
 This lecture discussed the instrument flight rules and instrument meterological conditions.
 
 **Instructor:** Tina Srisvastava
+

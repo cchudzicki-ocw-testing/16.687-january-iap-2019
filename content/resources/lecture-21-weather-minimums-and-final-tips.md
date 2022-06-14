@@ -30,3 +30,4 @@ Description
 This last lecture discussed the more weather challenges a VFR pilot facing than an IFR pilot and had a final review of this three-day workshop.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

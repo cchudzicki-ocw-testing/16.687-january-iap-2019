@@ -30,3 +30,4 @@ Description
 This lecture introduced various tools for flight planning.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

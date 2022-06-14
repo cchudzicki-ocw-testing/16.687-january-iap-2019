@@ -30,3 +30,4 @@ Description
 This lecture covered aircraft maintenance, preventative maintenance, and alterations.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+
