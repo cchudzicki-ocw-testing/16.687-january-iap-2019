@@ -28,3 +28,4 @@ Description
 This lecture covered the basic weather theory, weather patterns, and related hazards.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+
