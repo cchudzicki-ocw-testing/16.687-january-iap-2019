@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Dr. Philip Greenspun and Dr. Tina Srivastava describe
+  various aspects of how they teach 16.687 Private Pilot Ground School.
 draft: false
 layout: instructor_insights
 learning_resource_types: []

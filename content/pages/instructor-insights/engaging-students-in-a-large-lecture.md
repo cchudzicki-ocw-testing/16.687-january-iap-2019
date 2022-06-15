@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Srivastava enumerates some of the instructional
+  strategies employed in the course to make it accessible to a large room full of
+  students who may be working through the material at completely different paces.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
