@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Dr. Srivastava and Dr. Greenspun describe their goals\
+  \ for students\u2019 learning beyond preparing them to pass the official knowledge\
+  \ test for a pilot\u2019s certificate."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
